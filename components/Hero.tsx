@@ -13,7 +13,7 @@ export default function Hero() {
                 <p className="max-w-[700px] text-lg text-muted-foreground sm:text-xl">
                     Aprende todo lo relacionado con el desarrollo de software y sus nuevas tecnologías
                 </p>
-                <div className="flex flex-col pt-5 sm:flex-row">
+                <div className="flex flex-col pt-5 sm:flex-row justify-center">
                     <Button 
                         variant="default" className="bg-gradient-to-r from-blue-500 to-violet-500 text-white">
                         Acceder a los cursos
